@@ -1,2 +1,2 @@
 # Shopping-Cart
-Shopping Cart using AngularJS
+Angular-Bootstrap App
