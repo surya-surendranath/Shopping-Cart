@@ -1,3 +1,5 @@
+
+'use strict'
 angular.module('cart', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
